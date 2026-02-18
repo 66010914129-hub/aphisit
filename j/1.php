@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1>งาน</h1>
+<h1>งานj</h1>
 <img src="1.png" alt="รูปภาพ" width="300">
 </body>
 </html>
