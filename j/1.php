@@ -7,6 +7,6 @@
 
 <body>
 <h1>งานj</h1>
-<img src="1.png" alt="รูปภาพ" width="300">
+<img src="1.jpen " alt="รูปภาพ" width="300">
 </body>
 </html>
